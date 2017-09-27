@@ -1,0 +1,24 @@
+nav Raleway Bold 13 px 
+jumbo OpenSans Bold 65px
+	Raleway 22px
+jumbo btn Raleway semibold 13px
+
+icons & imgraleway bold 14px
+	raleway
+
+workers 
+	raleway 22px
+		13px
+		14px
+slider
+	cardo italic 36px
+	raleway bold 13px
+
+
+raleway light 28px
+raleway bold 13px
+raleway semibold 13px
+
+footer
+	raleway bold 14px
+	raleway 14p;x
