@@ -1,0 +1,25 @@
+[class$='__container'] {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	&:before,
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+.row:before,
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+[class$='__col'] {
+	width: 100%;
+	float: left;
+	padding: 20px;
+}
+
